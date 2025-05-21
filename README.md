@@ -12,7 +12,7 @@
 | 项目名 | 简介 | 技术栈 |
 |--------|------|--------|
 | [fullstack-admin-starter](#) | 基于 NestJS + Next.js 的全栈管理后台框架 | NestJS, Next.js, Prisma, JWT |
-| [awesome-nestjs-notes](#) | NestJS 系列学习笔记与实战总结 | NestJS, Typeorm, Mysql |
+| [awesome-nestjs-notes](https://github.com/ith5com/awesome-nestjs-notes) | NestJS 系列学习笔记与实战总结 | NestJS, Typeorm, Mysql |
 | [frontend-10years-summary](#) | 前端十年经验总结：性能优化、架构、面试题 | Vue, React, 架构经验 |
 
 ## 🌍 在线足迹
