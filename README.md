@@ -2,14 +2,6 @@
 
 **AI Agent / 全栈开发工程师**，2016 年起从事前端开发，现聚焦 Agent 工程化与全栈交付。
 
-独立开发「万小课」，面向技术创作者的知识付费平台，将内容购买、阅读、AI 导读、知识问答、复习题、知识图谱和思维导图串成一条学习链路。
-
-🛠 **技术栈** · React + TypeScript · Go · Python · PostgreSQL · Redis · Docker · AWS
-
-## 👋 Hi，我是麦勇潮
-
-**AI Agent / 全栈开发工程师**，2016 年起从事前端开发，现聚焦 Agent 工程化与全栈交付。
-
 独立开发「万小课」，面向技术创作者的知识付费平台，将购买、阅读与 AI 导读、知识问答、复习题、知识图谱和思维导图串成一条学习链路。
 
 🛠 React · TypeScript · Go · Python · PostgreSQL · Redis · Docker · AWS
