@@ -22,15 +22,12 @@
 
 ### 🧰 开源后台基座
 
-两套前后端分离的后台管理系统，同一套产品思路，分别用 Go 和 Node.js 实现，可作为中后台项目的起点。
+同一套产品思路，分别用 Go 和 Node.js 实现的前后端分离后台管理系统，可作为中后台项目的起点。
 
-**[go-gin-react-admin](https://github.com/ith5com/go-gin-react-admin)**
-
-Gin + GORM + React 19 + Ant Design 6。覆盖 JWT 双令牌认证、角色与数据范围权限、动态菜单、定时任务、日志审计与系统监控，内置数据表导入式代码生成、表结构维护与软删除回收站，附首次安装向导。
-
-**[nestjs-react-admin](https://github.com/ith5com/nestjs-react-admin)**
-
-NestJS 11 + TypeORM + React 19 + Ant Design，若依风格。用户、角色、菜单、部门、字典、定时任务等系统模块齐全，支持按钮级权限与菜单自动注册，代码生成器可一键产出前后端 CRUD。[在线 Demo](http://admin.ith5.cn/)。
+| 项目 | 技术栈 | 亮点 |
+| --- | --- | --- |
+| [go-gin-react-admin](https://github.com/ith5com/go-gin-react-admin) | Gin · GORM · MySQL · Redis · React 19 · Ant Design 6 | JWT 双令牌与数据范围权限、动态菜单、定时任务、日志审计与系统监控；数据表导入式代码生成、表结构维护与软删除回收站；首次安装向导 |
+| [nestjs-react-admin](https://github.com/ith5com/nestjs-react-admin) | NestJS 11 · TypeORM · MySQL · Redis · React 19 · Ant Design | 若依风格，用户 / 角色 / 菜单 / 部门 / 字典 / 定时任务等系统模块齐全；按钮级权限与菜单自动注册；代码生成器一键产出前后端 CRUD；[在线 Demo](http://admin.ith5.cn/) |
 
 ### 🧱 我怎么做系统
 
