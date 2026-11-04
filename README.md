@@ -4,7 +4,7 @@
 
 独立开发「万小课」，面向技术创作者的知识付费平台，将内容购买、阅读、AI 导读、知识问答、复习题、知识图谱和思维导图串成一条学习链路。
 
-🛠 **技术栈** · React + TypeScript · Go · Python · PostgreSQL · Redis · Docker · AWS
+🛠 **技术栈** · React + TypeScript · Go · NestJS · Python · PostgreSQL / MySQL · Redis · Docker · AWS
 
 ### 🏗️ 精选项目
 
@@ -19,6 +19,18 @@
 **第六个 Agent 与评测框架 · 开发中**
 
 基于公共 Runtime 实现导读、RAG 问答、复习题、知识图谱、思维导图与智能客服，配套索引基础设施及规则与模型裁判评测，计划随教程公开。
+
+### 🧰 开源后台基座
+
+两套前后端分离的后台管理系统，同一套产品思路，分别用 Go 和 Node.js 实现，可作为中后台项目的起点。
+
+**[go-gin-react-admin](https://github.com/ith5com/go-gin-react-admin)**
+
+Gin + GORM + React 19 + Ant Design 6。覆盖 JWT 双令牌认证、角色与数据范围权限、动态菜单、定时任务、日志审计与系统监控，内置数据表导入式代码生成、表结构维护与软删除回收站，附首次安装向导。
+
+**[nestjs-react-admin](https://github.com/ith5com/nestjs-react-admin)**
+
+NestJS 11 + TypeORM + React 19 + Ant Design，若依风格。用户、角色、菜单、部门、字典、定时任务等系统模块齐全，支持按钮级权限与菜单自动注册，代码生成器可一键产出前后端 CRUD。[在线 Demo](http://admin.ith5.cn/)。
 
 ### 🧱 我怎么做系统
 
